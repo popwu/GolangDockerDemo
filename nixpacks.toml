@@ -1,0 +1,4 @@
+# nixpacks.toml
+name = "HelloWorld"
+build_command = "go build -o HelloWorld main.go"
+start_command = "./HelloWorld"
